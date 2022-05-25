@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hiromiakita/static/css/main.eaa18a3c.chunk.css",
+    "main.js": "/hiromiakita/static/js/main.24488abe.chunk.js",
+    "main.js.map": "/hiromiakita/static/js/main.24488abe.chunk.js.map",
+    "runtime-main.js": "/hiromiakita/static/js/runtime-main.513e2dfd.js",
+    "runtime-main.js.map": "/hiromiakita/static/js/runtime-main.513e2dfd.js.map",
+    "static/js/2.a5376ddf.chunk.js": "/hiromiakita/static/js/2.a5376ddf.chunk.js",
+    "static/js/2.a5376ddf.chunk.js.map": "/hiromiakita/static/js/2.a5376ddf.chunk.js.map",
+    "index.html": "/hiromiakita/index.html",
+    "precache-manifest.82479c11a2e5bda66c830cd27b82e6ca.js": "/hiromiakita/precache-manifest.82479c11a2e5bda66c830cd27b82e6ca.js",
+    "service-worker.js": "/hiromiakita/service-worker.js",
+    "static/css/main.eaa18a3c.chunk.css.map": "/hiromiakita/static/css/main.eaa18a3c.chunk.css.map",
+    "static/js/2.a5376ddf.chunk.js.LICENSE.txt": "/hiromiakita/static/js/2.a5376ddf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.513e2dfd.js",
+    "static/js/2.a5376ddf.chunk.js",
+    "static/css/main.eaa18a3c.chunk.css",
+    "static/js/main.24488abe.chunk.js"
+  ]
+}
